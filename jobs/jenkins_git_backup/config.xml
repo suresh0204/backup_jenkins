@@ -19,7 +19,7 @@ git init
 git add .
 git commit -m &quot;backup-$BACKUP_TIME&quot;
 git branch -M main
-git remote add origin https://suresh0204:nokian900@@github.com/suresh0204/backup_jenkins.git
+git remote add origin https://suresh0204:rsuresh1234@github.com/suresh0204/backup_jenkins.git
 git push -u origin main
 echo &quot;backup pushed successfully&quot;</command>
       <configuredLocalRules/>
