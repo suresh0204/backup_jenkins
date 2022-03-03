@@ -20,7 +20,7 @@ git add .
 git commit -m &quot;backup-$BACKUP_TIME&quot;
 git branch -M main
 git remote add origin https://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@github.com/suresh0204/backup_jenkins.git
-git push -u origin main
+git push -f origin main
 echo &quot;backup pushed successfully&quot;</command>
       <configuredLocalRules/>
     </hudson.tasks.Shell>

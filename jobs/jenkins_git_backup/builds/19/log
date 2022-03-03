@@ -8,3 +8,33 @@ Building in workspace /var/lib/jenkins/workspace/jenkins_git_backup
 + git init
 Reinitialized existing Git repository in /var/lib/jenkins/.git/
 + git add .
++ git commit -m backup-Thursday 03 March 2022 11:10:32 PM IST
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+warning: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+error: pack-objects died of signal 15
+fatal: failed to run repack
+
+[main 8910804] backup-Thursday 03 March 2022 11:10:32 PM IST
+ 15 files changed, 76 insertions(+), 45 deletions(-)
+ create mode 100644 jobs/jenkins_git_backup/builds/18/build.xml
+ create mode 100644 jobs/jenkins_git_backup/builds/19/changelog.xml
+ create mode 100644 jobs/jenkins_git_backup/builds/19/log
+ delete mode 100644 logs/slaves/docker-agent-0001ap8c2tnp2/slave.log
+ delete mode 100644 nodes/docker-agent-0001ap8c2tnp2/config.xml
++ git branch -M main
++ git remote add origin https://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@github.com/suresh0204/backup_jenkins.git
++ git push -u origin main
+To https://github.com/suresh0204/backup_jenkins.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://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@github.com/suresh0204/backup_jenkins.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

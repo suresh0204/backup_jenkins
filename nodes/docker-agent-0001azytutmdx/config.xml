@@ -1,0 +1,39 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<io.jenkins.docker.DockerTransientNode plugin="docker-plugin@1.2.6">
+  <name>docker-agent-0001azytutmdx</name>
+  <description>Docker Agent [bibinwilson/jenkins-slave:latest on tcp://10.0.2.15:4243 ID 255e9d10a95a6026bb71edfb30b815aa62c9ead83ad13c618feceef8fdd16c87]</description>
+  <remoteFS>/home/jenkins</remoteFS>
+  <numExecutors>1</numExecutors>
+  <mode>NORMAL</mode>
+  <retentionStrategy class="com.nirima.jenkins.plugins.docker.strategy.DockerOnceRetentionStrategy">
+    <idleMinutes>10</idleMinutes>
+  </retentionStrategy>
+  <launcher class="io.jenkins.docker.connector.DockerDelegatingComputerLauncher">
+    <launcher class="hudson.plugins.sshslaves.SSHLauncher" plugin="ssh-slaves@1.33.0">
+      <host>10.0.2.15</host>
+      <port>49159</port>
+      <credentialsId>jenkins</credentialsId>
+      <launchTimeoutSeconds>60</launchTimeoutSeconds>
+      <maxNumRetries>10</maxNumRetries>
+      <retryWaitTime>15</retryWaitTime>
+      <sshHostKeyVerificationStrategy class="hudson.plugins.sshslaves.verifiers.NonVerifyingKeyVerificationStrategy"/>
+    </launcher>
+    <api>
+      <dockerHost plugin="docker-commons@1.19">
+        <uri>tcp://10.0.2.15:4243</uri>
+      </dockerHost>
+      <connectTimeout>60</connectTimeout>
+      <readTimeout>60</readTimeout>
+    </api>
+    <containerId>255e9d10a95a6026bb71edfb30b815aa62c9ead83ad13c618feceef8fdd16c87</containerId>
+  </launcher>
+  <label>docker-agent</label>
+  <nodeProperties/>
+  <containerId>255e9d10a95a6026bb71edfb30b815aa62c9ead83ad13c618feceef8fdd16c87</containerId>
+  <removeVolumes>false</removeVolumes>
+  <stopTimeout>10</stopTimeout>
+  <cloudId>docker</cloudId>
+  <acceptingTasks>
+    <value>1</value>
+  </acceptingTasks>
+</io.jenkins.docker.DockerTransientNode>
