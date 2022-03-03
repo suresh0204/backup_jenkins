@@ -8,3 +8,25 @@ Building on the built-in node in workspace /var/lib/jenkins/workspace/jenkins_gi
 + git init
 Reinitialized existing Git repository in /var/lib/jenkins/.git/
 + git add .
++ git commit -m backup-Thursday 03 March 2022 11:03:08 PM IST
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+warning: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+error: pack-objects died of signal 15
+fatal: failed to run repack
+
+[main f8239be] backup-Thursday 03 March 2022 11:03:08 PM IST
+ 16 files changed, 113 insertions(+), 9 deletions(-)
+ create mode 100644 jobs/jenkins_git_backup/builds/16/build.xml
+ create mode 100644 jobs/jenkins_git_backup/builds/17/changelog.xml
+ create mode 100644 jobs/jenkins_git_backup/builds/17/log
+ create mode 100644 logs/slaves/docker-agent-0001ap8c2tnp2/slave.log
+ create mode 100644 nodes/docker-agent-0001ap8c2tnp2/config.xml
++ git branch -M main
++ git remote add origin https://suresh0204:rsuresh1234@github.com/suresh0204/backup_jenkins.git
+fatal: remote origin already exists.
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
