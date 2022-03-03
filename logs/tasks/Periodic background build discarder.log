@@ -156,3 +156,19 @@ Offering test-pipeline to Project Build Discarder
 Processing maven/demo:maven-demo
 Offering maven/demo:maven-demo to Project Build Discarder
 Finished at Thu Mar 03 21:53:14 IST 2022. 6ms
+Started at Thu Mar 03 22:53:14 IST 2022
+Processing docker
+Offering docker to Project Build Discarder
+Processing docker-agent-test
+Offering docker-agent-test to Project Build Discarder
+Processing jenkins_git_backup
+Offering jenkins_git_backup to Project Build Discarder
+Processing jnlp-pipeline
+Offering jnlp-pipeline to Project Build Discarder
+Processing maven
+Offering maven to Project Build Discarder
+Processing test-pipeline
+Offering test-pipeline to Project Build Discarder
+Processing maven/demo:maven-demo
+Offering maven/demo:maven-demo to Project Build Discarder
+Finished at Thu Mar 03 22:53:14 IST 2022. 8ms
