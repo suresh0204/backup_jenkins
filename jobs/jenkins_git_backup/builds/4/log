@@ -1,0 +1,11 @@
+Started by user [8mha:////4F1g2CBBtLeo93z/eNVyv53vi+rTUEFGoPHqfRWGuyLiAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL94tKi1OIMAE55aFXBAAAA[0msuresh
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/jenkins_git_backup
+[jenkins_git_backup] $ /bin/sh -xe /tmp/jenkins9306059841605991755.sh
++ cd /var/lib
++ date
++ BACKUP_TIME=Thursday 03 March 2022 09:44:32 PM IST
++ git init
+/var/lib/.git: Permission denied
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

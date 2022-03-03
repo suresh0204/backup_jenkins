@@ -1,0 +1,45 @@
+Started by user [8mha:////4F1g2CBBtLeo93z/eNVyv53vi+rTUEFGoPHqfRWGuyLiAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL94tKi1OIMAE55aFXBAAAA[0msuresh
+[8mha:////4A8TEB/Y1Q8+2TcD5Hqk2tKBXfM720LLhoyN/CRFN6uXAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4CUbQ95/yjdvu2hSpK0/E3ELUsGpu5Sz7v/siZEXe7SLAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Still waiting to schedule task
+‘Jenkins’ doesn’t have label ‘docker-agent’
+‘[8mha:////4A94ESjYjqa+ksZ6KFkLwZbGEB2JwDsy8ashmIDQVYLjAAAAsh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyVEgZN/eT83ILSktQi/ZT85OzUIlUjl8T01LwSIG0ABIapFYUW5aaFOfoAB3hdtd4AAAA=[0mdocker-agent-00001exq8w5ql on docker’ is offline
+‘docker-jnlp-00001c4zc9tv4 on docker’ doesn’t have label ‘docker-agent’
+‘docker-jnlp-00001c99ovcp3 on docker’ doesn’t have label ‘docker-agent’
+‘docker-jnlp-00001cedc4ss8 on docker’ doesn’t have label ‘docker-agent’
+‘docker-jnlp-00001cipxee4c on docker’ doesn’t have label ‘docker-agent’
+‘docker-jnlp-00001cn8g5x8c on docker’ doesn’t have label ‘docker-agent’
+‘docker-jnlp-00001crupn4rt on docker’ doesn’t have label ‘docker-agent’
+‘docker-jnlp-00001cwgo9i22 on docker’ doesn’t have label ‘docker-agent’
+‘docker-jnlp-00001d12lt5az on docker’ doesn’t have label ‘docker-agent’
+‘docker-jnlp-00001d5rv0bga on docker’ doesn’t have label ‘docker-agent’
+‘docker-jnlp-00001dadtwj3p on docker’ doesn’t have label ‘docker-agent’
+‘docker-jnlp-00001dezq95jz on docker’ doesn’t have label ‘docker-agent’
+‘docker-jnlp-00001djkpk8ca on docker’ doesn’t have label ‘docker-agent’
+‘docker-jnlp-00001do5w3xek on docker’ doesn’t have label ‘docker-agent’
+‘docker-jnlp-00001dsg1b8qu on docker’ doesn’t have label ‘docker-agent’
+‘docker-jnlp-00001dx9riwyz on docker’ doesn’t have label ‘docker-agent’
+‘docker-jnlp-00001e204rwsw on docker’ doesn’t have label ‘docker-agent’
+‘docker-jnlp-00001e6iixdxt on docker’ doesn’t have label ‘docker-agent’
+‘docker-jnlp-00001eb475nlj on docker’ doesn’t have label ‘docker-agent’
+‘docker-jnlp-00001efl5blh2 on docker’ doesn’t have label ‘docker-agent’
+Running on [8mha:////4A94ESjYjqa+ksZ6KFkLwZbGEB2JwDsy8ashmIDQVYLjAAAAsh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyVEgZN/eT83ILSktQi/ZT85OzUIlUjl8T01LwSIG0ABIapFYUW5aaFOfoAB3hdtd4AAAA=[0mdocker-agent-00001exq8w5ql on docker in /home/jenkins/workspace/jnlp-pipeline
+[8mha:////4LPX41G0ek+NpyzAYynXq9yNnxVnZt1ioVkaukUNDoUIAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4B8tuFPbOzX9pM0wFCYBw4leh0NtNR9dkIQs/PRBYwD7AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaGWsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gdpL1fxvAAAAA==[0m[Pipeline] stage
+Using the ‘stage’ step without a block argument is deprecated
+Entering stage test
+Proceeding
+[8mha:////4LNip8KEx4M81DOb7c2dayiVHfnDn+dK57uL7xF7Kf8+AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGBtjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI4F2L72ED+qfHravAAAAA==[0m[Pipeline] sh
++ date
+Fri Feb 25 05:28:34 UTC 2022
+[8mha:////4ORlchJTKK8po7U/lLckcnJLSwqoaV/Lht6/R9YhuvNqAAAAox+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbmFgYK1tC4wmQRYQl/7PAult5Iq/mHSRuYuUkk8yb5r3esM4JTpQs9wZ7h1k7HsNo6+ITpf4WaOKerlwTZgqGSzNJ6sx5QUnFwBLWwErAxqAOlB3aAlvh1UO1QaFtLyXV7yigcd0AT2CimotK5Qtzgt197DLhz/NXAHMswPa1h/gB601hw7wAAAA=[0m[Pipeline] stage
+Using the ‘stage’ step without a block argument is deprecated
+Entering stage directory
+Proceeding
+[8mha:////4GS+CstAmXa/RaArSPeE7hXZ/VooVZcozzsMGGAeNyawAAAAox+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbWJgYK1tC4wmQRYQl/7PAult5Iq/mHSRuYuUkk8yb5r3esM4JTpQs9wZ7h1k7HsNo6+ITpf4WaOKerlwTZgqGSzNJ6sx5QUnFwBLWwErAxqAOlB3aAlvh1UO1QaFtLyXV7yigcd0AT2CimotK5Qtzgt197DLhz/NXAHMswPa1h/gBJFH5RLwAAAA=[0m[Pipeline] sh
++ whoami
+jenkins
+[8mha:////4CnNswrhZuRL5U5+SQ5B1b41tNnJ6XrexuGfBuf4IgEDAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTb2BhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j/fywb5vAAAAA==[0m[Pipeline] }
+[8mha:////4E8ASw1hDGJ0xAFru5qwz7Vhy94uiuT7P8ce1ThCoPRcAAAAoh+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIBUSIqWisNLzCJMU6su2BfSCpexNf4AxGRqNhqZ5p5vbFMEUeOTjWWWk+p8qoLvZueGji218CDaviiKqbEwarSDiXX9jRjyWIxL8ux0FhZqgInT06w1o15mCIYcsVZ4uQOGrmv73gi01NZTJQvjBGbW18npl/nbwBj1wny3VaQ7T8mviFMvQAAAA==[0m[Pipeline] // node
+[8mha:////4BgHZdWKyJLg2Rkg7iu8Uka+h/r33e+rJO5RGib2uc/eAAAAoh+LCAAAAAAAAP9tjTESgjAQRT84FraWHiIMto6VbYbGE0SIMZDZxWQRKk/k1byDjMxY+av/XvNeb6xTxJGjU62lzlOqverD4OanRo7dNfCoWr6omilxsKqyY8WNPS1YsVgsy3KsNDaW6sDJkxNsdWsepgiGXHGWOLuDRu6bO57I9FwWE+ULU8TuNjSJ6df5G8DU94K8LAXZ/gMAp0YGvQAAAA==[0m[Pipeline] End of Pipeline
+Finished: SUCCESS

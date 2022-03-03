@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-03-01 10:48:17.350 UTC</timestamp>
+  <md5sum>cd5bbd5dd563c1fd9a94f16a4e24565b</md5sum>
+  <fileName>com.github.davidmoten:rtree-0.8-RC10.jar</fileName>
+  <usages>
+    <entry>
+      <string>maven/demo:maven-demo</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>maven</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,0 +1,25 @@
+Started by user [8mha:////4F1g2CBBtLeo93z/eNVyv53vi+rTUEFGoPHqfRWGuyLiAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL94tKi1OIMAE55aFXBAAAA[0msuresh
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/jenkins_git_backup
+[jenkins_git_backup] $ /bin/sh -xe /tmp/jenkins10770987425397541784.sh
++ cd /var/lib/jenkins
++ date
++ BACKUP_TIME=Thursday 03 March 2022 10:07:08 PM IST
++ git init
+Reinitialized existing Git repository in /var/lib/jenkins/.git/
++ git add .
++ git commit -m backup-Thursday 03 March 2022 10:07:08 PM IST
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'jenkins@suresh-VirtualBox.(none)')
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

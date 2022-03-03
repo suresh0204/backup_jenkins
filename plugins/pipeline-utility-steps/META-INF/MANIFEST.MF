@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Hudson-Version: 2.289.3
+Plugin-Dependencies: workflow-cps:2648.va9433432b33c;resolution:=optio
+ nal,workflow-step-api:622.vb_8e7c15b_c95a_,script-security:1131.v8b_b
+ _5eda_c328e,structs:308.v852b473a2b8c
+Implementation-Title: pipeline-utility-steps
+Long-Name: Pipeline Utility Steps
+Implementation-Version: 2.12.0
+Group-Id: org.jenkins-ci.plugins
+Minimum-Java-Version: 1.8
+Plugin-License-Name: MIT License
+Specification-Title: The Jenkins Plugins Parent POM Project
+Plugin-ScmUrl: https://github.com/jenkinsci/pipeline-utility-steps-plu
+ gin
+Plugin-Version: 2.12.0
+Jenkins-Version: 2.289.3
+Url: https://github.com/jenkinsci/pipeline-utility-steps-plugin
+Short-Name: pipeline-utility-steps
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-Developers: Robert Sandell:rsandell:rsandell@cloudbees.com
+Extension-Name: pipeline-utility-steps
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.1
+

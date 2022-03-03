@@ -1,0 +1,32 @@
+Started by user [8mha:////4F1g2CBBtLeo93z/eNVyv53vi+rTUEFGoPHqfRWGuyLiAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL94tKi1OIMAE55aFXBAAAA[0msuresh
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/jenkins_git_backup
+[jenkins_git_backup] $ /bin/sh -xe /tmp/jenkins3420945471859223283.sh
++ cd /var/lib
++ date
++ BACKUP_TIME=Thursday 03 March 2022 09:47:03 PM IST
++ git init
+Initialized empty Git repository in /var/lib/.git/
++ git add .
+warning: could not open directory 'apt/lists/partial/': Permission denied
+warning: could not open directory 'snapd/cache/': Permission denied
+warning: could not open directory 'snapd/void/': Permission denied
+warning: could not open directory 'snapd/cookie/': Permission denied
+warning: could not open directory 'update-notifier/package-data-downloads/partial/': Permission denied
+warning: could not open directory 'gdm3/.config/pulse/': Permission denied
+warning: could not open directory 'gdm3/.local/share/xorg/': Permission denied
+warning: could not open directory 'gdm3/.cache/': Permission denied
+warning: could not open directory 'fwupd/gnupg/': Permission denied
+warning: could not open directory 'udisks2/': Permission denied
+warning: could not open directory 'AccountsService/users/': Permission denied
+warning: could not open directory 'polkit-1/': Permission denied
+warning: could not open directory 'private/': Permission denied
+warning: could not open directory 'colord/.cache/': Permission denied
+warning: could not open directory 'NetworkManager/': Permission denied
+warning: could not open directory 'docker/': Permission denied
+warning: could not open directory 'containerd/': Permission denied
+error: open("apt/lists/lock"): Permission denied
+error: unable to index file 'apt/lists/lock'
+fatal: adding files failed
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

@@ -1,0 +1,19 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-02-24 05:27:51.502 UTC</timestamp>
+  <md5sum>c4bc57549fa1436ac95a3933e9de6378</md5sum>
+  <fileName>Credential id=git name=suresh0204/******</fileName>
+  <usages>
+    <entry>
+      <string>docker</string>
+      <ranges>2</ranges>
+    </entry>
+  </usages>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet plugin="credentials@1074.v60e6c29b_b_44b_">
+      <timestamp>1645680471461</timestamp>
+      <itemFullName>docker</itemFullName>
+      <timestamp0>1645680471461</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

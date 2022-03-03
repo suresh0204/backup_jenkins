@@ -1,0 +1,30 @@
+Started by user [8mha:////4F1g2CBBtLeo93z/eNVyv53vi+rTUEFGoPHqfRWGuyLiAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL94tKi1OIMAE55aFXBAAAA[0msuresh
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/jenkins_git_backup
+[jenkins_git_backup] $ /bin/sh -xe /tmp/jenkins4595477277368392357.sh
++ cd /var/lib/jenkins
++ date
++ BACKUP_TIME=Thursday 03 March 2022 10:01:43 PM IST
++ git init
+Reinitialized existing Git repository in /var/lib/jenkins/.git/
++ git add .
+warning: adding embedded git repository: workspace/docker
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> workspace/docker
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached workspace/docker
+hint: 
+hint: See "git help submodule" for more information.
+warning: adding embedded git repository: workspace/jnlp-pipeline
+warning: adding embedded git repository: workspace/maven
+error: 'workspace/test-pipeline/' does not have a commit checked out
+fatal: adding files failed
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

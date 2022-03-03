@@ -1,0 +1,7 @@
+Started by user [8mha:////4F1g2CBBtLeo93z/eNVyv53vi+rTUEFGoPHqfRWGuyLiAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL94tKi1OIMAE55aFXBAAAA[0msuresh
+Running as SYSTEM
+Building remotely on [8mha:////4Nqjc/O11mDhgDbX4xgRv1qLpfxnlpV6jJp7Iu1aRjT7AAAArx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyVEgYV/eT83ILSktQi/ZT85OzUIt3E9NS8El0DIDA0SS1IqUjLzwQAKV4kkdkAAAA=[0mdocker-agent-000014epdxfoi on docker (docker-agent) in workspace /home/jenkins/workspace/docker-agent-test
+[docker-agent-test] $ /bin/sh -xe /tmp/jenkins2973349387309618255.sh
++ echo Hello World
+Hello World
+Finished: SUCCESS

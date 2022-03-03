@@ -1,0 +1,9 @@
+Started by user [8mha:////4F1g2CBBtLeo93z/eNVyv53vi+rTUEFGoPHqfRWGuyLiAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL94tKi1OIMAE55aFXBAAAA[0msuresh
+Running as SYSTEM
+Building remotely on [8mha:////4D2Ba68XKOXjQu2k/fxSgHGbPfnWQOb+ywea3gQvX5aKAAAArh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyVEgYV/eT83ILSktQi/ZT85OzUIt3E9NS8El0DEDDJKqmyzDJKBABhPCof2QAAAA==[0mdocker-agent-000004jtz9j2a on docker (docker-agent) in workspace /home/jenkins/workspace/docker-agent-test
+[docker-agent-test] $ /bin/sh -xe /tmp/jenkins4958543919637770404.sh
++ NAME=Suresh
++ date
++ echo Hello, Suresh. Today's date and time is: Thu Feb 24 14:06:02 UTC 2022
+Hello, Suresh. Today's date and time is: Thu Feb 24 14:06:02 UTC 2022
+Finished: SUCCESS

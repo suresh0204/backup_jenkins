@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-03-01 10:48:17.369 UTC</timestamp>
+  <md5sum>ead9fecd5c8f4fdd682cef9141afe9c3</md5sum>
+  <fileName>com.github.davidmoten:guava-mini-0.1.jar</fileName>
+  <usages>
+    <entry>
+      <string>maven/demo:maven-demo</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>maven</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
