@@ -8,3 +8,27 @@ Building on the built-in node in workspace /var/lib/jenkins/workspace/jenkins_gi
 + git init
 Reinitialized existing Git repository in /var/lib/jenkins/.git/
 + git add .
++ git commit -m backup-Thursday 03 March 2022 11:03:33 PM IST
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+warning: The last gc run reported the following. Please correct the root cause
+and remove .git/gc.log.
+Automatic cleanup will not be performed until the file is removed.
+
+error: pack-objects died of signal 15
+fatal: failed to run repack
+
+[main 7bb43d0] backup-Thursday 03 March 2022 11:03:33 PM IST
+ 7 files changed, 66 insertions(+), 4 deletions(-)
+ create mode 100644 .local/share/tracker/data/.meta.isrunning
+ create mode 100644 jobs/jenkins_git_backup/builds/17/build.xml
+ create mode 100644 jobs/jenkins_git_backup/builds/18/changelog.xml
+ create mode 100644 jobs/jenkins_git_backup/builds/18/log
++ git branch -M main
++ git remote add origin https://suresh0204:rsuresh1234@github.com/suresh0204/backup_jenkins.git
++ git push -u origin main
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/suresh0204/backup_jenkins.git/'
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
